@@ -13,6 +13,7 @@ $(function () {
 
 
     $(".selectField").dialog({
+        autoOpen:false,
         resizable: false,
         height: "auto",
         width: 400,
